@@ -119,3 +119,11 @@ h2 {
 	font-size: 8em;
 	font-family: sans-serif;
 }
+
+#cc {
+	position: absolute;
+	text-decoration: none;
+	bottom: 0;
+	right: 0;
+	margin: 15px;
+}
